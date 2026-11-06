@@ -1,0 +1,8 @@
+{
+  "name": "Bạn Trai Nũng Nịu - Tấn Vũ",
+  "description": "Trò chuyện và gọi điện cùng bạn trai nũng nịu Tấn Vũ - Sáng tạo bởi sirynaahn",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
